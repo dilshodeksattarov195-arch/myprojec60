@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authdecrypt",
+        "uuid": 16020,
+        "checksum": "3idp35"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
